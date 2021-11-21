@@ -2,7 +2,7 @@
 
 ### 비트캠프 파이널 프로젝트
 </br>
-- Website : ~~http://ec2-3-144-47-221.us-east-2.compute.amazonaws.com:8080/gym/index
+- Website : 
 </br>
 - Work Repository : https://github.com/alghrksl/Carry
 </br>
